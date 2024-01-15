@@ -1,4 +1,5 @@
-This simple app shows How to user Ktor Library with APIs calls for GET and POST Endpoints
+This simple app shows How to user Ktor Library with APIs calls for GET and POST Endpoints.
+Here I used Serialization Library with Ktor.
 
 #Demo Video for app
 
